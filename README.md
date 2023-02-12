@@ -23,7 +23,7 @@ But Transaction2 type can be matched with multiple Transaction1 type.
 *Transaction 1 id 2 -> matched Transaction2: id 3 with amount 100*
 
 ## Clone
-git clone
+ ```git clone git@github.com:a11exe/matching.git```
 
 ## Build
     ./gradlew clean build
